@@ -1,5 +1,6 @@
 # Virtual-Drawing-Board
-A moderate OpenCV project regarding making hand-painting on web-cam screen
+A moderate OpenCV project regarding making hand-painting on web-cam screen.
+Demo pictures & a small video below.
 
 
 
