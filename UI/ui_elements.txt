@@ -1,0 +1,1 @@
+the folder contains ui images for header in web-cam screen
